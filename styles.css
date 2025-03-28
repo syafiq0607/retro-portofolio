@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f9f7e8;
+  background-color: #3c94a3;
   position: relative;
 }
 
@@ -19,8 +19,8 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(#d1d1d1 1px, transparent 1px),
-    linear-gradient(90deg, #d1d1d1 1px, transparent 1px);
+  background-image: linear-gradient(#4a2b5f 1px, transparent 1px),
+    linear-gradient(90deg, #4a2b5f 1px, transparent 1px);
   background-size: 20px 20px;
   z-index: -1;
 }
@@ -39,7 +39,7 @@ body::before {
 }
 
 .browser-bar {
-  background-color: #ff6b6b;
+  background-color: #cf9b4c;
   border: 2px solid black;
   border-bottom: none;
   border-radius: 8px 8px 0 0;
