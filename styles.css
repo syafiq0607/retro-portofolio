@@ -329,7 +329,7 @@ body::before {
 .project-image {
   height: 180px;
   border: 1px solid black;
-  margin-bottom: 8px;
+  margin-bottom: 15px;
   width: 100%;
 }
 
